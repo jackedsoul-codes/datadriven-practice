@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/jackedsoul), committed her
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Kings of the Calendar](./practice/sql/kings-of-the-calendar) | SQL | Hard | 2026-11-03 |
 | [The Full Picture](./practice/sql/the-full-picture) | SQL | Easy | 2026-11-03 |
 | [The Lazy Unpacker](./practice/python/the-lazy-unpacker) | Python | Medium | 2026-11-03 |
 | [Reverse Field](./practice/python/reverse-field) | Python | Easy | 2026-11-03 |
