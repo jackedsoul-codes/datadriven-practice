@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/jackedsoul), committed her
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Reverse Field](./practice/python/reverse-field) | Python | Easy | 2026-11-03 |
 | [Shared Category Purchasers](./practice/sql/shared-category-purchasers) | SQL | Medium | 2026-11-03 |
 | [The Ninety-Day Comeback](./practice/sql/the-ninety-day-comeback) | SQL | Hard | 2026-11-03 |
 | [Character Position in Endpoint](./practice/sql/character-position-in-endpoint) | SQL | Easy | 2026-11-01 |
