@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/jackedsoul), committed her
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-11-06 |
 | [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-11-04 |
 | [Kings of the Calendar](./practice/sql/kings-of-the-calendar) | SQL | Hard | 2026-11-03 |
 | [The Full Picture](./practice/sql/the-full-picture) | SQL | Easy | 2026-11-03 |
