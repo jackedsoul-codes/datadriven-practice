@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/jackedsoul), committed her
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Medium | 2026-11-08 |
+| [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Easy | 2026-11-08 |
 | [Peak Spending Month](./practice/sql/peak-spending-month) | SQL | Easy | 2026-11-07 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-11-06 |
 | [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-11-04 |
