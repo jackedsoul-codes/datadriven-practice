@@ -9,7 +9,7 @@ Scored work from [DataDriven](https://datadriven.io/u/jackedsoul), committed her
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
 | [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Medium | 2026-11-10 |
-| [Open Wounds](./practice/sql/open-wounds) | SQL | Medium | 2026-11-08 |
+| [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-11-08 |
 | [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Medium | 2026-11-08 |
 | [Peak Spending Month](./practice/sql/peak-spending-month) | SQL | Easy | 2026-11-07 |
