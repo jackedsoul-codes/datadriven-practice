@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/jackedsoul), committed her
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-11-12 |
 | [Against the House](./practice/python/against-the-house) | Python | Medium | 2026-11-12 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-12 |
 | [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Easy | 2026-11-10 |
