@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/jackedsoul), committed her
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-12 |
 | [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Easy | 2026-11-10 |
 | [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-11-08 |
