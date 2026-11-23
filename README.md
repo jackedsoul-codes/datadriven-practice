@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/jackedsoul), committed her
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top-Heavy](./practice/python/top-heavy) | Python | Medium | 2026-11-23 |
 | [Power Users](./practice/sql/power-users) | SQL | Medium | 2026-11-19 |
 | [The Zigzag Encoder](./practice/python/the-zigzag-encoder) | Python | Medium | 2026-11-16 |
 | [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Hard | 2026-11-15 |
