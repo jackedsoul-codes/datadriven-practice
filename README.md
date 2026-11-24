@@ -11,7 +11,7 @@ Scored work from [DataDriven](https://datadriven.io/u/jackedsoul), committed her
 | [Top-Heavy](./practice/python/top-heavy) | Python | Medium | 2026-11-23 |
 | [Power Users](./practice/sql/power-users) | SQL | Medium | 2026-11-19 |
 | [The Zigzag Encoder](./practice/python/the-zigzag-encoder) | Python | Medium | 2026-11-16 |
-| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Hard | 2026-11-15 |
+| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Easy | 2026-11-15 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-11-12 |
 | [Against the House](./practice/python/against-the-house) | Python | Medium | 2026-11-12 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-12 |
